@@ -2,4 +2,4 @@
 *.out
 *.o
 *.exe
-Q1
+build/
