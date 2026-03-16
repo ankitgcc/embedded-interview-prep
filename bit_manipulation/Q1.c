@@ -24,5 +24,5 @@ int main(){
 }
 
 
-// gcc Q1.c -o Q1
+// gcc Q1.c -o build/Q1
 // ./Q1
