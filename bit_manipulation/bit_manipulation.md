@@ -24,6 +24,7 @@ num ^= (1 << n);
 4. Swap two numbers without temp variable
 5. Reverse bits of a number
 6. Turn off the rightmost set bit
+7. Check if a number is even or odd
 
 ---
 
