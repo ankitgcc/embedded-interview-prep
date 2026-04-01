@@ -28,7 +28,7 @@ num ^= (1 << n);
 8. Toggle the ith bit of a number
 9. Find the rightmost set bit
 10. Find two non-repeating elements in an array
-
+11. Find the missing number (1…N)
 ---
 
 ## Tricks
